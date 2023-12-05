@@ -6,10 +6,10 @@ Horiseon Marketing agency has hired me to refractor their existing website code 
 
 ## Horiseon's existing website 
 
-![The Horiseon webpage includes a navigation bar, a header image, cards with text, a sidebar, and a footer section.](Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, cards with text, a sidebar, and a footer section](Assets/01-html-css-git-challenge-demo.png)
 
 
-## How I approached this Project
+## How I Approached this Project
 I wanted ensure this website met accessibility standards without changing look of the existing site. 
 
 In order to achieve this, I did the following:
@@ -41,7 +41,7 @@ Various attributes were used throughout the project to enhance the functionality
 
 
 ## Deployed Project Link 
-You can view the optimised website via this link - (https://hwilson-hub.github.io/Horiseon-C-1/)
+You can view the optimised website for Horiseon via this link - (https://hwilson-hub.github.io/Horiseon-C-1/)
 
 
 ## License
