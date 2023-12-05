@@ -6,13 +6,7 @@ Horiseon Marketing agency has hired me to refractor their existing website code 
 
 ## Horiseon's existing website 
 
-![The Horiseon webpage includes a navigation bar, a header image, cards with text, a sidebar, and a footer section.](Challenge1-Horiseon/Assets/01-html-css-git-challenge-demo.png)
-Horiseon Marketing agency has hired me to refractor their existing website code to make it more accessible and seo optimised. 
-
-
-## Horiseon's existing website 
-
-![The Horiseon webpage includes a navigation bar, a header image, cards with text, a sidebar, and a footer section.](Challenge1-Horiseon/Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, cards with text, a sidebar, and a footer section.](Assets/01-html-css-git-challenge-demo.png)
 
 
 ## How I approached this Project
@@ -47,7 +41,7 @@ Various attributes were used throughout the project to enhance the functionality
 
 
 ## Deployed Project Link 
-You can view the optimised website via this link - (https://hwilson-hub.github.io/Challenge1-Horiseon/)
+You can view the optimised website via this link - (https://hwilson-hub.github.io/Horiseon-C-1/)
 
 
 ## License
