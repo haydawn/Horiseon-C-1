@@ -14,14 +14,15 @@ I wanted ensure this website met accessibility standards without changing look o
 
 In order to achieve this, I did the following:
 
-* Added Semantic HTML elements throughout the source code
-* Made sure the HTML elements followed a logical structure independent of styling and positioning
-* Added `alt` attributes to Image and icon elements 
-* Made sure the Heading attributes fall in sequential order
+* Validated and corrected all links for proper functionality
+* Organised CSS properties to follow the semantic structure of HTML elements
+* Integrated alt attributes for Image and icon elements
+* Implemented semantic HTML elements across the codebase to enhance structure and logic
+* Reworked the CSS style sheet for efficiency by consolidating selectors and properties
+* Ensured the Heading attributes fall in sequential order
 * Added a concise and descriptive Title
-* Double checked all links to ensure they are working correctly
-* Reworked the CSS style sheet to make it more efficient by consolidating selectors and properties and organising them to follow the semantic structure of the HTML elements
-* Included comments before each element or section of the page
+* Made sure the HTML elements followed a logical structure independent of styling and positioning
+* Included comments before each element or section on the page for clarity and ease of understanding
 
 
 ### Improvements Suggessions
